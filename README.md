@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft?&color=gradient&height=200&section=header&text=Chathumi%20Kaumadi&fontSize=40&fontColor=ffffff" alt="header"/>
+</p>
+
+---
+
 # 👋 Hey there! I'm Chathumi Kaumadi  
 
 
@@ -15,6 +21,13 @@
 
 ---
 
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Chathu234-sys&label=Profile%20Views&color=9A2FFF&style=for-the-badge" alt="profile views" /> 
+</p>
+
+
+---
 
 ## 🚀 Languages & Tools  
 <p align="center">
