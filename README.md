@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Languages & Tools  
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -35,8 +35,8 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />  
-</p>  
+  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&margin-w=10&margin-h=10&title=Commits,Repositories" alt="GitHub Trophies" />  
+</p> 
 
 ---
 
