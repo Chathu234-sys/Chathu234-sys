@@ -1,15 +1,20 @@
 # 👋 Hey there! I'm Chathumi Kaumadi  
 
+
 💻 Undergraduate Student 
 ---
 
+
 ## 🙋‍♀️ About Me  
+
 
 - 🎓 I’m currently an **Undergraduate Student** exploring the world of software development  
 - 👨‍💻 All my projects are available at [My GitHub Repositories](https://github.com/Chathu234-sys)   
 - ⚡ Fun fact: I love learning new technologies and building creative projects!  
 
+
 ---
+
 
 ## 🚀 Languages & Tools  
 <p align="center">
@@ -24,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
 </p>  
 
+
 ---
 
 ## 📈 GitHub Stats  
@@ -31,13 +37,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Chathu234-sys&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
 </p>  
 
+
 ---
 
 ## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&margin-w=10&margin-h=10&title=Commits,Repositories" alt="GitHub Trophies" />  
-</p> 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&title=Commits" alt="Commits Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&title=Repositories" alt="Repositories Trophy" />
+</div>
+ 
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to connect with me and check out my repositories.
+<p align="center">
+  ✨ Thanks for visiting my profile! Feel free to connect with me and check out my repositories. ✨
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A2FFF&center=true&vCenter=true&width=600&lines=Happy+Coding!+👩‍💻;Keep+Learning+and+Building+🚀;Let's+Connect+on+GitHub!+💜" alt="Typing Animation" />
+</p>
