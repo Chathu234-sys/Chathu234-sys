@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:12c2e9,50:c471ed,100:f64f59&height=230&section=header&text=Chathumi%20Kaumadi&fontSize=48&fontColor=fff&animation=scaleIn&desc=AI%20%7C%20Software%20Engineering%20%7C%20UX%20Design&descAlignY=75&descAlign=50&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:12c2e9,50:c471ed,100:f64f59&height=230&section=header&text=Chathumi%20Kaumadi&fontSize=48&fontColor=fff&animation=scaleIn" alt="header"/>
 </p>
 
 <!-- Greeting Section -->
