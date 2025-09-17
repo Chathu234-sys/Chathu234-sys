@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=220&section=header&text=Chathumi%20Kaumadi&fontSize=45&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Software%20Engineering%20%7C%20UX%20Design&descAlignY=70&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff6a00,100:ee0979&height=220&section=header&text=Chathumi%20Kaumadi&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
+
 
 
 
