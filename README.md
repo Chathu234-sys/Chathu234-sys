@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft?&color=gradient&height=200&section=header&text=Chathumi%20Kaumadi&fontSize=40&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=✨Chathumi%20Kaumadi✨&fontSize=45&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
+
 
 ---
 
-# 👋 Hey there! I'm Chathumi Kaumadi  
+<p align="center">
+  # 👋 Hey there! I'm Chathumi Kaumadi
+</p>
 
+<p align="center">
+  💻 Undergraduate Student
+</p>
 
-💻 Undergraduate Student 
 ---
 
 
