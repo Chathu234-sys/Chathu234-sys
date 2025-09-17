@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C9FF&text=Chathumi%20Kaumadi&height=150&fontSize=45&animation=fadeIn&desc=Innovative%20Software%20Engineer&descAlignY=75&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6A11CB,100:2575FC&height=180&section=header&text=Chathumi%20Kaumadi&fontSize=45&fontColor=ffffff&animation=scaleIn" alt="header"/>
 </p>
+
 
 
 <!-- Greeting Section -->
