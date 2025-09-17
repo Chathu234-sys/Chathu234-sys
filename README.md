@@ -1,16 +1,16 @@
+<!-- Capsule Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Chathumi%20Kaumadi&fontSize=45&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
 
-
----
-
-<div align="center">
-  <span style="font-size:28px;">👋 Hey there! I'm Chathumi Kaumadi</span>
+<!-- Greeting Section -->
+<div align="center" style="margin-top: -40px;">
+  <span style="font-size:38px; font-weight:bold;">👋 Hey there! I'm Chathumi Kaumadi</span>
   <br>
-  <span style="font-size:20px;">💻 Undergraduate Student</span>
+  <span style="font-size:30px; color:#ffffff;">💻 Undergraduate Student</span>
 </div>
 
+---
 
 ---
 
