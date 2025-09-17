@@ -6,11 +6,11 @@
 ---
 
 <p align="center">
-  # 👋 Hey there! I'm Chathumi Kaumadi
+  <h3>👋 Hey there! I'm Chathumi Kaumadi</h3>
 </p>
 
 <p align="center">
-  💻 Undergraduate Student
+  <h4>💻 Undergraduate Student</h4>
 </p>
 
 ---
