@@ -1,7 +1,7 @@
-<!-- Capsule Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Chathumi%20Kaumadi&fontSize=45&fontColor=ffffff&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C9FF&text=Chathumi%20Kaumadi&height=150&fontSize=45&animation=fadeIn&desc=Innovative%20Software%20Engineer&descAlignY=75&descAlign=50" alt="header"/>
 </p>
+
 
 <!-- Greeting Section -->
 <div align="center" style="margin-top: -40px;">
