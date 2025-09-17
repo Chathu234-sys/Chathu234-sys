@@ -5,13 +5,12 @@
 
 ---
 
-<p align="center">
-  <h3>👋 Hey there! I'm Chathumi Kaumadi</h3>
-</p>
+<div align="center">
+  <span style="font-size:28px;">👋 Hey there! I'm Chathumi Kaumadi</span>
+  <br>
+  <span style="font-size:20px;">💻 Undergraduate Student</span>
+</div>
 
-<p align="center">
-  <h4>💻 Undergraduate Student</h4>
-</p>
 
 ---
 
