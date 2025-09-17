@@ -41,11 +41,10 @@
 ---
 
 ## 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&title=Commits" alt="Commits Trophy" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&title=Repositories" alt="Repositories Trophy" />
-</div>
- 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&margin-w=10&margin-h=10&title=Commits,Repositories" alt="GitHub Trophies" />  
+</p>
+
 
 ---
 
@@ -54,5 +53,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A2FFF&center=true&vCenter=true&width=600&lines=Happy+Coding!+👩‍💻;Keep+Learning+and+Building+🚀;Let's+Connect+on+GitHub!+💜" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9A2FFF&center=true&vCenter=true&width=600&lines=Happy+Coding!+👩‍💻;Keep+Learning+and+Building+🚀;Let's+Connect+on+GitHub!+💜" alt="Typing Animation" />
 </p>
+
