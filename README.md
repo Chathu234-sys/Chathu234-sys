@@ -10,9 +10,6 @@
   <span style="font-size:30px; color:#ffffff;">💻 Undergraduate Student</span>
 </div>
 
----
-
----
 
 
 ## 🙋‍♀️ About Me  
