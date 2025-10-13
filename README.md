@@ -57,7 +57,7 @@
 </p>
 
 <!-- Right aligned -->
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu234-sys&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
