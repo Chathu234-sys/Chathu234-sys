@@ -49,15 +49,20 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chathu234-sys&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
 </p>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chathu234-sys&theme=tokyonight" alt="Chathu234-sys" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chathu234-sys&layout=compact&theme=tokyonight" alt="Chathu234-sys" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&margin-w=10&margin-h=10&title=Commits,Repositories" alt="GitHub Trophies" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=Chathu234-sys&theme=tokyonight&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,MultiLanguage" alt="GitHub Trophies" />
 </p>
-
 
 ---
 
